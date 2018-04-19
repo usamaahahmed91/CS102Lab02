@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="Classes/" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Test.java" package="" timestamp="28-Feb-2018 12:56:10">
+        <select from="2212" to="2212"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MySimpleURLReader.java" package="" timestamp="28-Feb-2018 09:12:15">
+        <select from="2212" to="2212"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="SuperHTMLFilteredReader.java" package="" timestamp="28-Feb-2018 09:27:27">
+        <select from="2212" to="2212"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="HTMLFilteredReader.java" package="" timestamp="28-Feb-2018 09:35:47">
+        <select from="2212" to="2212"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Program.java" package="" timestamp="28-Feb-2018 12:00:13">
+        <select from="2212" to="2212"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../cs1.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
